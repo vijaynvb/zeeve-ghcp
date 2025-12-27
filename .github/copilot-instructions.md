@@ -1,6 +1,7 @@
 # Globacl coding & Architecture guidelines
 
 ## project Structure
+- develop the application using MERN stack (MongoDB, Express.js, React, Node.js). 
 - Follow a modular structure, grouping related functionalities together.
 - place backend application in backend folder.
 - place frontend application in frontend folder.
