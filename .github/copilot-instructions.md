@@ -1,5 +1,10 @@
 # Globacl coding & Architecture guidelines
 
+## project Structure
+- Follow a modular structure, grouping related functionalities together.
+- place backend application in backend folder.
+- place frontend application in frontend folder.
+
 ## Clean Code Rules
 - Use meaningfull names (camelCase for variables and functions, PascalCase for classes and types).
 - keep functions small and focused on a single task.
