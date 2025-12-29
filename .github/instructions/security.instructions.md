@@ -12,13 +12,13 @@ description: "Security and architectural safeguards"
 ## Secrets
 - Never hardcode credentials or tokens.
 - Encourage use of environment variables or secrets manager.
-- secrets are maintained in hashicorp vault 
+<!-- - secrets are maintained in hashicorp vault 
 - cors configured to allow only trusted origins
 - RBAC implemented for sensitive operations
 - Use HTTPS for all communications Self signed certificates are not allowed
 - Regularly rotate secrets and credentials.
 - Use strong encryption for sensitive data at rest and in transit.
-- Implement multi-factor authentication (MFA) where applicable.
+- Implement multi-factor authentication (MFA) where applicable. -->
 
 ## API Contracts
 - Follow OpenAPI standards.
