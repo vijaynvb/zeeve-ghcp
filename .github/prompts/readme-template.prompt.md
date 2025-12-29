@@ -1,3 +1,9 @@
+---
+agent: 'ask'
+description: This prompt is used to update the readme file for a microservice or module.
+model: GPT-5-Codex (Preview) (copilot)
+---
+
 Generate a project README for a microservice or module.
 
 Requirements:
