@@ -12,4 +12,4 @@ Requirements:
 - Coding standards or references to team guidelines (if any)
 
 Output:
-- README.md content ready to paste in root of module/service
+- update the README.md 
