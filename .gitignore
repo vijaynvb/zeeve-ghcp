@@ -34,6 +34,6 @@ pnpm-debug.log*
 Thumbs.db
 
 # IDE
-.vscode/
+.vscode/mcp.json
 .idea/
 *.swp
